@@ -1,0 +1,21 @@
+.elementor-25244 .elementor-element.elementor-element-a43f255:not(.elementor-motion-effects-element-type-background),
+.elementor-25244 .elementor-element.elementor-element-a43f255>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-25244 .elementor-element.elementor-element-a43f255,
+.elementor-25244 .elementor-element.elementor-element-a43f255>.elementor-background-overlay {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-25244 .elementor-element.elementor-element-a43f255 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-25244 .elementor-element.elementor-element-a43f255>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-25244 .elementor-element.elementor-element-bf824f6>.elementor-element-populated {
+    padding: 20px 40px 20px 40px;
+}
